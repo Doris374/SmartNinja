@@ -1,0 +1,34 @@
+
+.linkovi  {
+    display: flex;
+    justify-content: flex-end;
+    }
+
+#prvi   {
+    margin: 5px;
+    color: black;
+    }
+#drugi  {
+    margin: 5px;
+    color: black;
+    }
+#prvaslika  {
+  width: 800px;
+  height: 800px;
+  }
+#drugaslika {
+ width: 800px;
+ height: 800px;
+ }
+#trećaslika {
+width: 800px;
+height: 800px;}
+.d-block {
+    margin: 250px;
+    margin-top: 50px;
+}
+.table  {
+    width: 800px;
+    dispay: flex;
+    justify-content: center;
+    }
